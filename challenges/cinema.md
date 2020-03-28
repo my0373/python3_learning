@@ -1,5 +1,5 @@
-#Cinema programming challenge
-##Challenge 1
+# Cinema programming challenge
+## Challenge 1
 The Cinema challenge is from my days in school, where we were set a challenge to write a theatre booking system. The challenge is as follows
 
 A cinema screen has 25 rows of 12 seats. Write a simple command line tool to allow users to reserve seats for guests, and charges them appropriately. The cinema opens at 8am, and closes at 1am. there are 3 pricing brackets
